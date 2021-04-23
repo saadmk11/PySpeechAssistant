@@ -1,0 +1,9 @@
+requests
+gtts
+playsound
+SpeechRecognition
+pyaudio
+pgi
+pyttsx3
+pywhatkit
+wikipedia
